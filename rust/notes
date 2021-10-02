@@ -1,2 +1,4 @@
 rustc hello.rs
 that is the simple compiling command
+
+doc.rust-lang.org/stable/rust-by-example/
