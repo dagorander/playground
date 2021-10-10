@@ -1,0 +1,1 @@
+/home/daniel/Projects/playground/rust/crash_course/exercise/c_simple_types/target/debug/ding_machine: /home/daniel/Projects/playground/rust/crash_course/exercise/c_simple_types/src/lib.rs /home/daniel/Projects/playground/rust/crash_course/exercise/c_simple_types/src/main.rs

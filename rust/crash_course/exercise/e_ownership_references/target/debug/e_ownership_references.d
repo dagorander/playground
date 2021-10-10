@@ -1,0 +1,1 @@
+/home/daniel/Projects/playground/rust/crash_course/exercise/e_ownership_references/target/debug/e_ownership_references: /home/daniel/Projects/playground/rust/crash_course/exercise/e_ownership_references/src/main.rs
