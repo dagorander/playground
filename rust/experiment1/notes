@@ -1,0 +1,13 @@
+Now create a plan to make a simple todo list app with this!
+Will need to store data files in home directory somewhere
+Aside from that, start with simple hashmaps
+Or at least find out if there's something simpler or better?
+since it seems i might not be able to select on an index with hashmaps. :(
+https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/
+https://github.com/thekuwayama/todo/tree/main/src
+could use structs? See the below
+https://github.com/Muream/todo-rust/blob/master/src/main.rs
+Also check this: https://developpaper.com/how-to-write-a-todo-application/
+That last one used Hashmaps!
+Structs in HashMaps? https://stackoverflow.com/questions/54039307/creation-of-a-hashmap-with-struct-in-rust
+and https://www.reddit.com/r/learnrust/comments/gxqpk7/idiomatic_way_to_store_struct_in_hashmap_by_id/
