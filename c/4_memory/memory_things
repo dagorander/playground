@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
+
+Example of things that use malloc and such things:
+
+Basically, we want to create an array.
+Store things in it.
+Then store more things than it currently has space for. Therefore we need to allocate more space.
+And later on the other way around.
